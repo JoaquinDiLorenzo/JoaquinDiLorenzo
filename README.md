@@ -22,6 +22,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=bash,git,java,linux,mysql,postman,spring)](https://skillicons.dev)
 
 <br>
