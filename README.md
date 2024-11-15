@@ -22,10 +22,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=bash,git,java,linux,mysql,postman,spring)](https://skillicons.dev)
 
 <br>
 
