@@ -19,6 +19,6 @@
 <br>
 
 
-[![JoaquinDiLorenzo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinDiLorenzo)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=prussian)
       
 
