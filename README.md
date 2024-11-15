@@ -19,6 +19,6 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=transparent)
       
 
