@@ -6,8 +6,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Actualmente estoy aprendiendo desarrollo de microsevicios con Java Spring Boot.
-
 - 📫 Mi mail es: **dilorenzojoaquin26@gmail.com**
 
 <br>
