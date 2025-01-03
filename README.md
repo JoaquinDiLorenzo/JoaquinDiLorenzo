@@ -3,8 +3,10 @@
 
 <br />
 
-<p align="right"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<table>
+<tr>
+<td>
+  
 - 📫 Mi mail es: **dilorenzojoaquin26@gmail.com**
 
 <br>
@@ -25,9 +27,17 @@
   <img src="https://img.shields.io/badge/-Matplotlib-005C6B?logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
 
+</td>
+<td align="right">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="GIF animado" />
+</td>
+</tr>
+</table>
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=transparent)
+
 
 
 
