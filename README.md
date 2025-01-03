@@ -5,11 +5,11 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
 <h3>📫 Contacto</h3> 
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dilorenzojoaquin26@gmail.com" target="_blank" style="text-decoration: none; color: #3776AB;">
-       dilorenzojoaquin26@gmail.com
-    </a>
+
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Gmail_2019.png)](https://mail.google.com)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com)
+
 
 <br>
 <br>
@@ -33,7 +33,6 @@
 <br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinDiLorenzo&layout=compact&theme=transparent" alt="Top Langs" />
-
 
 
 
