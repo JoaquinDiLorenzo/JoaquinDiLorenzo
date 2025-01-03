@@ -11,7 +11,6 @@
 
 
 <br>
-<br>
 
 <h3 align="left">🛠️ Lenguajes y Herramientas:</h3>
     <p style="margin: 0; display: flex; flex-wrap: wrap; gap: 10px;">
