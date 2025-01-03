@@ -7,8 +7,7 @@
 
 <h3>📫 Contacto</h3> 
 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_Gmail_2019.png)](https://mail.google.com)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com)
+<p>Mi mail es: <a href="mailto:dilorenzojoaquin26@gmail.com">dilorenzojoaquin26@gmail.com</a></p>
 
 
 <br>
