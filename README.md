@@ -8,7 +8,7 @@
     <h3>📫 Contacto</h3>
     <p style="font-size: 18px; line-height: 1.5; color: #333;">Mi correo electrónico es:</p>
     <p style="font-size: 20px; font-weight: bold; color: #555;">dilorenzojoaquin26@gmail.com</p>
-
+    <br>
     <h3>🛠️ Languages and Tools:</h3>
     <p style="margin: 0; display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" />
