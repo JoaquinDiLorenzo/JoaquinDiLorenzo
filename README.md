@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,git,java,linux,mysql,postman,spring&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,git,java,python,linux,mysql,jupyternotebook,pandas,matplotlib&perline=3)](https://skillicons.dev)
 
 <br>
 
